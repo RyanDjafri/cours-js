@@ -1,0 +1,11 @@
+{
+    "liveServer.settings.donotVerifyTags": true,
+    "window.zoomLevel": 1,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.fontSize": 12,
+    "explorer.confirmDelete": false,
+    "files.autoSave": "afterDelay",
+    "workbench.colorTheme": "Theme",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.formatOnSave": true
+}
