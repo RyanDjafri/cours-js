@@ -163,7 +163,7 @@ equal.addEventListener('click', () => {
 clear.addEventListener('click', () => {
     result.textContent = '';
 })
-
+// test pour github
 
 
 // // //----------------------------------------
